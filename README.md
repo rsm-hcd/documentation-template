@@ -6,6 +6,16 @@ Summary
 =================
 > This is where Give a high level overview of the solution here. Feel free to include the main languages it was built on.
 
+Technology Stack
+=================
+> List the front-end and back-end technologies used in the project.
+* .NET Core 2.0
+* SQL Server 2014
+* Typescript
+* React v15.6.1
+* Hangfire
+* Redis
+
 Project Resources
 =================
 > This is where you list the names and roles of the different peple that have been involved with the project (past and present). You can also include links to LinkedIn accounts if you want.
