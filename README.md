@@ -27,4 +27,5 @@ Project Resources
 Table Of Contents
 =================
 > Provides a hierarchy of the various documentation. Each item links to a separate markdown file in the `documentation` directory.
- * [Developer Machine Setup](documentation/developer-setup.md)
+* [Developer Machine Setup](documentation/developer-setup.md)
+* [Production Troubleshooting](documentation/production-troubleshooting.md)
