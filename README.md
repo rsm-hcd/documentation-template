@@ -32,8 +32,8 @@ Table Of Contents
 * [Development Workflow](documentation/development-workflow.md)
 * [Release Management](documentation/release-management.md)
 * [Requirements](https://andculture.atlassian.net/projects/[MYAWESOMEPROJECT]/summary)
-* [Project Architecture](documentation/architecture)
-* [Design Patterns](documentation/design-patterns)
+* [Project Architecture](documentation/architecture.md)
+* [Design Patterns](documentation/design-patterns.md)
 * Slack Channels
   * [CompanyABC-MusicLover](slack://channel?id=<CHANNEL-ID>&team=<TEAM-ID>) - General project discussion.  All resources on project should be added to this channel.
   * [CompanyABC-MusicLover-CI](slack://channel?id=<CHANNEL-ID>&team=<TEAM-ID>) - Continuous integration.  All bitbucket commits and jenkins builds will notify this channel.  Developers should be added to this channel
