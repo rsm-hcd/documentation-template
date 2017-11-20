@@ -46,5 +46,5 @@ Table Of Contents
   * [Google](https://developers.google.com/actions/identity/oauth2-code-flow) - This project uses Google as an oAuth provider for account registration
 * [Google Drive](https://drive.google.com/drive/u/1/folders/[IDENTIFIER])
 * External Resources
-  * [CompanyABC DropBox](https://www.dropbox.com/?landing=dbv2)
+  * [CompanyABC DropBox](https://www.dropbox.com/?landing=dbv2) (See `CompanyABC-Dropbox` in 1Password for credentials)
   * [CompanyABC Approval Process Workflow](https://www.companyabc.com/approval-process-workflow)
