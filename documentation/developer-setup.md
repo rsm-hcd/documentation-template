@@ -1,8 +1,8 @@
 # Developer Machine Setup
 > Outlines the steps required to get the project running on a developer machine. Also includes any troubleshooting items that may have been encountered.
 
-Contents
-==========
+Table of Contents
+=================
 * [Windows Setup](#windows-setup)
 * [Mac Setup](#mac-setup)
 * [Troubleshooting](#troubleshooting)
