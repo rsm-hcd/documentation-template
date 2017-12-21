@@ -59,6 +59,10 @@ All Web API controllers in the `Presentation.Web` project should have 75% code c
 **Example**
 Functional testing is on the roadmap, but has not yet been implemented at this time.
 
+Feature Management (link out to branch strategy)
+=============
+> What is this?  What should it link out to?
+
 Jira Workflow
 =============
 > Includes details of how user stories and chores get assigned to a sprint, and how they are managed throughout the build, test and deployment phases.

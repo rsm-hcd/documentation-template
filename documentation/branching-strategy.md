@@ -1,4 +1,4 @@
-# Environment - Strategy
+# Branching Strategy
 > ???
 
 Table of Contents

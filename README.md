@@ -29,6 +29,8 @@ Table Of Contents
 > Provides a hierarchy of the various documentation. The follow links will redirect to either a separate markdown file within the `documentation` directory of this project or to external referencial resources.
 * [Developer Machine Setup](documentation/developer-setup.md)
 * [Production Troubleshooting](documentation/production-troubleshooting.md)
+* [Branching Strategy](documentation/branching-strategy.md)
+* [Maintenance](documentation/maintenance.md)
 * [Development Workflow](documentation/development-workflow.md)
 * [Release Management](documentation/release-management.md)
 * [Requirements](https://andculture.atlassian.net/projects/[MYAWESOMEPROJECT]/summary)
