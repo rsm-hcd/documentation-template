@@ -4,7 +4,7 @@ A sample repository containing our documentation structure and layout for all pr
 
 Summary
 =================
-> This is where Give a high level overview of the solution here. Feel free to include the main languages it was built on.
+> Give a high level overview of the solution here. Feel free to include the main languages it was built on.
 
 Technology Stack
 =================
