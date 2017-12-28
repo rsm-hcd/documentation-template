@@ -12,7 +12,7 @@ Technology Stack
 * .NET Core 2.0
 * SQL Server 2014
 * Typescript
-* React v15.6.1
+* React v15
 * Hangfire
 * Redis
 
