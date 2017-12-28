@@ -35,7 +35,7 @@ Table Of Contents
 * [Release Management](documentation/release-management.md)
 * [Requirements](https://andculture.atlassian.net/projects/[MYAWESOMEPROJECT]/summary)
 * System Architecture Diagram (Not available)
-* [Project Architecture Readme](documentation/architecture.md)
+* [Project Architecture](documentation/architecture.md)
 * [Design Patterns](documentation/design-patterns.md)
 * Slack Channels
   * [CompanyABC-MusicLover](slack://channel?id=<CHANNEL-ID>&team=<TEAM-ID>) - General project discussion.  All resources on project should be added to this channel.
