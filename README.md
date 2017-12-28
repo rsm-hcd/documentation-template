@@ -27,7 +27,7 @@ Project Resources
 Table Of Contents
 =================
 > Provides a hierarchy of the various documentation. The follow links will redirect to either a separate markdown file within the `documentation` directory of this project or to external referencial resources.
-* [Developer Machine Setup](documentation/developer-setup.md)
+* [Developer Machine Setup](documentation/developer-machine-setup.md)
 * [Production Troubleshooting](documentation/production-troubleshooting.md)
 * [Branching Strategy](documentation/branching-strategy.md)
 * [Maintenance](documentation/maintenance.md)
@@ -35,7 +35,7 @@ Table Of Contents
 * [Release Management](documentation/release-management.md)
 * [Requirements](https://andculture.atlassian.net/projects/[MYAWESOMEPROJECT]/summary)
 * System Architecture Diagram (Not available)
-* [Project Architecture Readme](documentation/architecture.md)
+* [Project Architecture](documentation/project-architecture.md)
 * [Design Patterns](documentation/design-patterns.md)
 * Slack Channels
   * [CompanyABC-MusicLover](slack://channel?id=<CHANNEL-ID>&team=<TEAM-ID>) - General project discussion.  All resources on project should be added to this channel.
