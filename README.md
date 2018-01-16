@@ -19,6 +19,10 @@ Technology Stack
 Browser/Software Support
 =================
 > One of two things should be provided here.  If this is documented in the requirements documentation, link out to it from here.  Otherwise, provide a full listing of supported browsers or software.
+* Internet Explorer 11
+* Chrome (latest version)
+* Firefox (latest version)
+* Safari (latest version)
 
 Project Resources
 =================
