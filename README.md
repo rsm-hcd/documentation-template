@@ -16,6 +16,10 @@ Technology Stack
 * Hangfire
 * Redis
 
+Browser/Software Support
+=================
+> One of two things should be provided here.  If this is documented in the requirements documentation, link out to it from here.  Otherwise, provide a full listing of supported browsers or software.
+
 Project Resources
 =================
 > This is where you list the names and roles of the different peple that have been involved with the project (past and present). You can also include links to LinkedIn accounts if you want.
